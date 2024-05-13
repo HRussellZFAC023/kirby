@@ -1,5 +1,5 @@
 # kirby
-vewy sowwy https://github.com/HRussellZFAC023/kirby
+vewy sowwy [https://github.com/HRussellZFAC023/kirby](https://hrussellzfac023.github.io/kirby/)
 
 ![image](https://github.com/HRussellZFAC023/kirby/assets/22746105/ae7303a1-8cb6-4225-aa04-ddb7624968c7)
 
